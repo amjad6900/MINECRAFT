@@ -1,0 +1,3 @@
+#Thu Jan 09 11:40:15 PST 2020
+MB_strength=0.008
+Motionblur=true
